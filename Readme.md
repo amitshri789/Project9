@@ -7,3 +7,4 @@
 - Tried using grid instead of flex-box on some of the sections.
 - Using :nth-child() selector for pseudo elements.
 - Learned use of repeat and Minmax in grid.
+git
